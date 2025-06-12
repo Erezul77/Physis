@@ -1,0 +1,2 @@
+# Sample Physis grammar definition
+expression ::= subject verb object

@@ -1,0 +1,6 @@
+sdk: gradio # gardio
+sdk_version: 5.33.0
+python_version: 3.9
+app_file: app.py
+
+
